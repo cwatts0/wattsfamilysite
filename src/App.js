@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
-import { Container, Row, Col } from 'reactstrap';
 import './App.css';
 
 class App extends Component {
@@ -11,7 +10,7 @@ class App extends Component {
               <div class="column">
                 <div class="menuHeader">Does a menu need a header?</div>
                 <ul class="menuItem">
-                  <li><a>Chris</a></li>
+                  <li>Chris</li>
                   <li>Anica</li>
                   <li>Will</li>
                   <li>John</li>
